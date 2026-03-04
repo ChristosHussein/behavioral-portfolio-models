@@ -31,7 +31,7 @@ Additionally, the CPT algorithm demonstrates that by trading based on human fear
 Installation & Usage
 Requirements: MATLAB (R2020a or newer) and the Optimization Toolbox (required for fmincon).
 
-Execution: Open MegaSimulation.m and run the script.
+Execution: Open matlab-quant-engine.m and run the script.
 
 Note: The pre-fetch cache takes ~2 minutes. Running 1,000 rolling-window trials performs roughly 160,000 non-linear optimizations and may take 15–45 minutes depending on your CPU.
 
